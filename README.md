@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td><img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gagaducko&show_icons=true&include_all_commits=true" /></td>
-    <td><img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></td>
+    <td><img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gagaducko&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></td>
   </tr>
 </table>
 
