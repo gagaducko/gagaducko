@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![gagaducko's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagaducko&show_icons=true&theme=tokyonight)
+![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagaducko&layout=compact&theme=tokyonight)
