@@ -38,25 +38,6 @@
   />
 </p>
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=gagaducko&theme=xcode&bg_color=00000000&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=gagaducko&theme=xcode&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=gagaducko&theme=xcode&bg_color=00000000&hide_border=true"
-      alt="GitHub activity graph"
-      width="100%"
-    />
-  </picture>
-</p>
 
 ## 📊 GitHub Stats
 
