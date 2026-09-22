@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Ph.D. student at **Shanghai Jiao Tong University**.
+- gagagagagagagagagagagagagagagagag
 
 ## 🧰 Tech Stack
 
